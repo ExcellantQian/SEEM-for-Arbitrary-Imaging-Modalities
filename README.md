@@ -9,18 +9,8 @@
 The advancement of terrain segmentation technology critically determines the performance of environmental perception. However, due to the diversity of real-world scenarios, conventional segmentation methods struggle to handle arbitrary imaging modalities and meet the dynamic requirements of open-vocabulary learning. To address these challenges, this paper proposes AIM-SEEM, an open-vocabulary terrain segmentation framework capable of processing arbitrary imaging modalities and their combinations. First, we integrate an RGB-Oriented Aligner (ROA) with a Cross-Modal Blending Adapter (CMBA) to achieve alignment across arbitrary modal dimensions and input counts. Nevertheless, the introduction of arbitrary imaging modalities disrupts the original open-vocabulary capability of SEEM. To mitigate this, we introduce a Visual-Guided Text Tuner (VGTT), which realigns visual features and textual embeddings within SEEM to adapt to diverse modal inputs. Experimental results demonstrate that AIM-SEEM consistently outperforms existing semantic segmentation models supporting arbitrary modalities. 
 
 ## Updates
-- [x] 01/2026: init repository and release the code.
+- [x] 01/2026: initialize the repository; code release coming soon.
 
-## AIM-SEEM model
-
-<p align="center">
-  <img src="overview.png" alt="AIM-SEEM" width="800" />
-</p>
-
-<p align="center">
-  <strong>Figure:</strong> Overall architecture of AIM-SEEM model.
-</p>
-</div>
 
 ## Environment
 
