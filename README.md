@@ -15,7 +15,7 @@ The advancement of terrain segmentation technology critically determines the per
 
 <div align="center"> 
 
-![AIM-SEEM](figure/overview1.png)
+![AIM-SEEM](overview.png)
 **Figure:** Overall architecture of AIM-SEEM model.
 
 </div>
